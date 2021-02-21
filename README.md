@@ -1,7 +1,6 @@
 # Calculator-SpringBoot
 Project based on Spring Boot.
 
-#DEMO:
 After you start the application the server will listen on port 8080.
 
 Get the result of 2 + 3:
